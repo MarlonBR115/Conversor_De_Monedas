@@ -47,7 +47,7 @@
       <recent name="D:\Nueva carpeta\EjemploGitFlow\ConvertidorMonedas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ConvertidorMonedas" />
       <option name="ENV_FILES" value="" />

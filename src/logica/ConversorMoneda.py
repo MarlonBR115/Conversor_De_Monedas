@@ -5,7 +5,13 @@ class ConversorMoneda:
         ('EUR', 'JPY'): 130,
         ('EUR', 'USD'): 1 / 0.85,
         ('JPY', 'USD'): 1 / 110,
-        ('JPY', 'EUR'): 1 / 130
+        ('JPY', 'EUR'): 1 / 130,
+        ('PEN', 'USD'): 0.26537517,
+        ('PEN', 'EUR'): 0.2428513,
+        ('PEN', 'JPY'): 40.37936,
+        ('USD', 'PEN'): 1 / 0.26537517,
+        ('EUR', 'PEN'): 1 / 0.2428513,
+        ('JPY', 'PEN'): 1 / 40.37936
         }
     def convertir(self, monto, moneda_origen, moneda_destino):
         if monto < 0:

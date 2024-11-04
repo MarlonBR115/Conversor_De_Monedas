@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7081a29-fdad-4faf-a3e8-020e578ac7f0" name="Changes" comment="Agregar funcionalidad de conversión de monedas con pruebas TDD">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/ConversorMoneda.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/ConversorMoneda.py" afterDir="false" />
+    <list default="true" id="a7081a29-fdad-4faf-a3e8-020e578ac7f0" name="Changes" comment="Agregar funcionalidad de conversión de monedas para soles peruanos">
+      <change beforePath="$PROJECT_DIR$/test/test_conversor.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_conversor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_conversor.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_conversor.py.executor": "Run",
+    "Python.ConversorMoneda.executor": "Run",
+    "Python.app.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Nueva carpeta\EjemploGitFlow\ConvertidorMonedas" />
@@ -138,12 +138,37 @@
       <option name="project" value="LOCAL" />
       <updated>1730752153647</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Agregar funcionalidad de conversión de monedas con pruebas TDD">
+      <option name="closed" value="true" />
+      <created>1730753384833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730753384833</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Agregar funcionalidad de conversión de monedas para soles peruanos">
+      <option name="closed" value="true" />
+      <created>1730753464437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730753464437</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Agregar funcionalidad de conversión de monedas para soles peruanos">
+      <option name="closed" value="true" />
+      <created>1730753508739</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730753508739</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio del proyecto" />
     <MESSAGE value="Agregar funcionalidad de conversión de monedas con pruebas TDD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregar funcionalidad de conversión de monedas con pruebas TDD" />
+    <MESSAGE value="Agregar funcionalidad de conversión de monedas para soles peruanos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar funcionalidad de conversión de monedas para soles peruanos" />
   </component>
 </project>
